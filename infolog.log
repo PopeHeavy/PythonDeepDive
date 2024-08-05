@@ -1,0 +1,9 @@
+2024-08-06 00:50:59,504 - INFO - info
+2024-08-06 00:51:01,939 - ERROR - NameError
+Traceback (most recent call last):
+  File "E:\pythonProject1\main.py", line 63, in <module>
+    main()
+  File "E:\pythonProject1\main.py", line 53, in main
+    clear_list()
+    ^^^^^^^^^^
+NameError: name 'clear_list' is not defined
